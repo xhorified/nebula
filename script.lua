@@ -1,6 +1,6 @@
 local allowedUsers = {
 
-    ["bankfinesser"] = true,
+    ["dumpthatknocka"] = true,
     ["person2"] = true,
     ["person3"] = true,
     ["person4"] = true,
